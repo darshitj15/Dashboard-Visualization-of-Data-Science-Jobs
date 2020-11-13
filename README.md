@@ -7,3 +7,5 @@ Similarly, selecting a state will give information only for that state and chang
 Here is a glimpse of the Dashboard.
 
 ![alt text here](DashboardPics/Dashboard.png)
+
+#### The Tableau Dashboard file, Web scraped and Feature Extracted ready to use data, Web scraping code, Data Wrangling and Feature Extraction code can be found in the repository.
