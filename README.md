@@ -6,4 +6,4 @@ Similarly, selecting a state will give information only for that state and chang
 
 Here is a glimpse of the Dashboard.
 
-![alt text](DashboardPics/Dashboard.png)
+![alt text here](DashboardPics/Dashboard.png)
