@@ -15,27 +15,27 @@ Here is a glimpse of the Dashboard.
 
 ![alt text here](DashboardPics/Dashboard.png)
 
-Hovering over a specific city with search filters for state.
+### Hovering over a specific city with search filters for state.
 
 ![alt text here](DashboardPics/GeoViz.png)
 
-Skills for jobs selected in the filter on the right.
+### Skills for jobs selected in the filter on the right.
 
 ![alt text here](DashboardPics/Skills.png)
 
-Relative comparison of different sectors providing jobs in fields selected on the right.
+### Relative comparison of different sectors providing jobs in fields selected on the right.
 
 ![alt text here](DashboardPics/Sector.png)
 
-Work experience requirement for selected jobs and selected states in filter.
+### Work experience requirement for selected jobs and selected states in filter.
 
 ![alt text here](DashboardPics/WorkExp.png)
 
-Mean Salary for Data Science, Data Analyst, Business Analyst, and Data Engineer for states selected.
+### Mean Salary for Data Science, Data Analyst, Business Analyst, and Data Engineer for states selected.
 
 ![alt text here](DashboardPics/MeanSalary.png)
 
-Education requirements (filter enabled)
+### Education requirements for selected states and job types.
 
 ![alt text here](DashboardPics/Education.png)
 
